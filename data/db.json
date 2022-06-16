@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "Why do we use it?\nIt is along established fact that a reader will be distracted by such.",
+      "author": "yoshi",
+      "id": 2
+    }
+  ]
+}
